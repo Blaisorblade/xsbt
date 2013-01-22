@@ -1,0 +1,27 @@
+<classpath>
+  <classpathentry output="target/classes" path="src/main/scala" kind="src"></classpathentry>
+  <classpathentry output="target/classes" path="src/main/java" kind="src"></classpathentry>
+  <classpathentry output="target/test-classes" path="src/test/scala" kind="src"></classpathentry>
+  <classpathentry output="target/test-classes" path="src/test/java" kind="src"></classpathentry>
+  <classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"></classpathentry>
+  <classpathentry path="/Users/pgiarrusso/.ivy2/cache/org.apache.ivy/ivy/jars/ivy-2.3.0-rc1.jar" kind="lib"></classpathentry>
+  <classpathentry path="/Users/pgiarrusso/.ivy2/cache/com.jcraft/jsch/jars/jsch-0.1.46.jar" kind="lib"></classpathentry>
+  <classpathentry path="/Users/pgiarrusso/.ivy2/cache/commons-httpclient/commons-httpclient/jars/commons-httpclient-3.1.jar" kind="lib"></classpathentry>
+  <classpathentry path="/Users/pgiarrusso/.ivy2/cache/commons-logging/commons-logging/jars/commons-logging-1.0.4.jar" kind="lib"></classpathentry>
+  <classpathentry path="/Users/pgiarrusso/.ivy2/cache/commons-codec/commons-codec/jars/commons-codec-1.2.jar" kind="lib"></classpathentry>
+  <classpathentry path="/Users/pgiarrusso/.ivy2/cache/org.scalacheck/scalacheck_2.10/jars/scalacheck_2.10-1.10.0.jar" kind="lib"></classpathentry>
+  <classpathentry path="/Users/pgiarrusso/.ivy2/cache/org.scala-tools.testing/test-interface/jars/test-interface-0.5.jar" kind="lib"></classpathentry>
+  <classpathentry path="/Users/pgiarrusso/.ivy2/cache/org.scala-lang/scala-actors/jars/scala-actors-2.10.0.jar" kind="lib"></classpathentry>
+  <classpathentry path="/Users/pgiarrusso/.ivy2/cache/org.specs2/specs2_2.10/jars/specs2_2.10-1.12.3.jar" kind="lib"></classpathentry>
+  <classpathentry path="/Users/pgiarrusso/.ivy2/cache/org.specs2/specs2-scalaz-core_2.10.0-RC3/jars/specs2-scalaz-core_2.10.0-RC3-6.0.1.jar" kind="lib"></classpathentry>
+  <classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_COMPILER_CONTAINER"></classpathentry>
+  <classpathentry path="/Users/pgiarrusso/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.10.0.jar" kind="lib"></classpathentry>
+  <classpathentry path="/Users/pgiarrusso/.ivy2/cache/jline/jline/jars/jline-1.0.jar" kind="lib"></classpathentry>
+  <classpathentry exported="true" path="/Interface" kind="src" combineaccessrules="false"></classpathentry>
+  <classpathentry exported="true" path="/Launcher Interface" kind="src" combineaccessrules="false"></classpathentry>
+  <classpathentry exported="true" path="/Logging" kind="src" combineaccessrules="false"></classpathentry>
+  <classpathentry exported="true" path="/IO" kind="src" combineaccessrules="false"></classpathentry>
+  <classpathentry exported="true" path="/Launcher" kind="src" combineaccessrules="false"></classpathentry>
+  <classpathentry path="org.eclipse.jdt.launching.JRE_CONTAINER" kind="con"></classpathentry>
+  <classpathentry path="bin" kind="output"></classpathentry>
+</classpath>

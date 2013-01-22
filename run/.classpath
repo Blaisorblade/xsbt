@@ -1,0 +1,15 @@
+<classpath>
+  <classpathentry output="target/classes" path="src/main/scala" kind="src"></classpathentry>
+  <classpathentry output="target/classes" path="src/main/java" kind="src"></classpathentry>
+  <classpathentry output="target/test-classes" path="src/test/scala" kind="src"></classpathentry>
+  <classpathentry output="target/test-classes" path="src/test/java" kind="src"></classpathentry>
+  <classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"></classpathentry>
+  <classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_COMPILER_CONTAINER"></classpathentry>
+  <classpathentry path="/Users/pgiarrusso/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.10.0.jar" kind="lib"></classpathentry>
+  <classpathentry exported="true" path="/IO" kind="src" combineaccessrules="false"></classpathentry>
+  <classpathentry exported="true" path="/Logging" kind="src" combineaccessrules="false"></classpathentry>
+  <classpathentry exported="true" path="/Classpath" kind="src" combineaccessrules="false"></classpathentry>
+  <classpathentry exported="true" path="/Process" kind="src" combineaccessrules="false"></classpathentry>
+  <classpathentry path="org.eclipse.jdt.launching.JRE_CONTAINER" kind="con"></classpathentry>
+  <classpathentry path="bin" kind="output"></classpathentry>
+</classpath>

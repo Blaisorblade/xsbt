@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/scala"/>
+	<classpathentry kind="src" output="target/classes" path="src/main/java"/>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/scala"/>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java"/>
+	<classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"/>
+	<classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_COMPILER_CONTAINER"/>
+	<classpathentry kind="lib" path="/Users/pgiarrusso/.ivy2/cache/org.scala-lang/scala-reflect/jars/scala-reflect-2.10.0.jar"/>
+	<classpathentry kind="lib" path="/Users/pgiarrusso/.ivy2/cache/org.scalacheck/scalacheck_2.10/jars/scalacheck_2.10-1.10.0.jar"/>
+	<classpathentry kind="lib" path="/Users/pgiarrusso/.ivy2/cache/org.scala-tools.testing/test-interface/jars/test-interface-0.5.jar"/>
+	<classpathentry kind="lib" path="/Users/pgiarrusso/.ivy2/cache/org.scala-lang/scala-actors/jars/scala-actors-2.10.0.jar"/>
+	<classpathentry kind="lib" path="/Users/pgiarrusso/.ivy2/cache/org.specs2/specs2_2.10/jars/specs2_2.10-1.12.3.jar"/>
+	<classpathentry kind="lib" path="/Users/pgiarrusso/.ivy2/cache/org.specs2/specs2-scalaz-core_2.10.0-RC3/jars/specs2-scalaz-core_2.10.0-RC3-6.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/pgiarrusso/.ivy2/cache/jline/jline/jars/jline-1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/pgiarrusso/.ivy2/cache/org.apache.ivy/ivy/jars/ivy-2.3.0-rc1.jar"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/Launcher Interface"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/Interface"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/Logging"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/IO"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/Classpath"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/Launcher"/>
+	<classpathentry combineaccessrules="false" exported="true" kind="src" path="/API"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Compiler Interface/target/precompiled_2.10.0-RC3/compiler-interface-src-0.13.0-SNAPSHOT.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
